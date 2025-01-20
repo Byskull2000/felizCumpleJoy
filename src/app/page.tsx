@@ -250,6 +250,7 @@ const Page = () => {
                 Siempre tendrás un hogar en mi corazón ❤️
               </p>
             </div>
+            <div className="min-w-[100px] text-xl mb-5 ml-4 font-semibold">Página hecha con mucho amor por Diego 💚</div>
           </div>
         </div>
       )}
